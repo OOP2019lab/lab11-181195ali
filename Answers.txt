@@ -1,0 +1,10 @@
+Exercise 6:
+a) First name and last name should not be allowed to get access to in its child classes
+b)First name and last name are inaccessible
+c) They both were private
+
+Exercise 8:
+Some build error showed up because some members got private and could not get access but I think there should not have been an error becuz we used functions
+
+Exercise 9:
+Some build error showed up because all the members got hidden because the inheritance is private
